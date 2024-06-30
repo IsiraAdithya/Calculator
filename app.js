@@ -5,7 +5,7 @@ function calc() {
     let number2 = Number(document.getElementById("number2").value);
     let lblOutput = document.getElementById("output");
 
-    let operation = document.getElementById("operation").value;
+    let operation = document.getElementById("operation");
 
     switch (operation) {
         case "+":
