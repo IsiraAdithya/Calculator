@@ -7,16 +7,36 @@ function calc() {
 
     let operation = document.getElementById("operation").value;
 
-    if (operation == "+") {
-        lblOutput.innerHTML = (number1 + number2);
+    switch (operation) {
+        case "+":
+            lblOutput.innerHTML = (number1 + number2);
+            break;
+
+        case "-":
+            lblOutput.innerHTML = (number1 - number2);
+            break;
+
+        case "x":
+            lblOutput.innerHTML = (number1 * number2);
+            break;
+
+        case "/":
+            lblOutput.innerHTML = (number1 / number2);
+            break;
+
+        default:
+            break;
     }
-    else
 
- lblOutput.innerHTML = (number1 - number2);
-    
-   
 
-    
-    
 
+
+
+
+}
+
+function num9click() {
+
+    document.getElementById("number1").value=9;
+    
 }
