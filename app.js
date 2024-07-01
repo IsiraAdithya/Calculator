@@ -50,3 +50,100 @@ function num7click() {
     
 }
 
+function num8click() {
+
+    document.getElementById("number1").value=8;
+    
+}
+
+function num9click() {
+
+    document.getElementById("number1").value=9;
+    
+}
+
+function num4click() {
+
+    document.getElementById("number1").value=4;
+    
+}
+function num5click() {
+
+    document.getElementById("number1").value=5;
+    
+}
+function num6click() {
+
+    document.getElementById("number1").value=6;
+    
+}
+function num1click() {
+
+    document.getElementById("number1").value=1;
+    
+}
+function num2click() {
+
+    document.getElementById("number1").value=2;
+    
+}
+function num3click() {
+
+    document.getElementById("number1").value=3;
+    
+}
+function num0click() {
+
+    document.getElementById("number1").value=0;
+    
+}
+function num7click1() {
+
+    document.getElementById("number2").value=7;
+    
+}
+function num8click1() {
+
+    document.getElementById("number2").value=8;
+    
+}
+function num9click1() {
+
+    document.getElementById("number2").value=9;
+    
+}
+function num4click1() {
+
+    document.getElementById("number2").value=4;
+    
+}
+function num5click1() {
+
+    document.getElementById("number2").value=5;
+    
+}
+function num6click1() {
+
+    document.getElementById("number2").value=6;
+    
+}
+function num1click1() {
+
+    document.getElementById("number2").value=1;
+    
+}
+function num2click1() {
+
+    document.getElementById("number2").value=2;
+    
+}
+function num3click1() {
+
+    document.getElementById("number2").value=3;
+    
+}
+function num0click1() {
+
+    document.getElementById("number2").value=0;
+    
+}
